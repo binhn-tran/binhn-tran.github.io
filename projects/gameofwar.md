@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/gameofwar.webp
 title: "GameOfWar"
 date: 2022-02-01
 labels:
