@@ -3,11 +3,10 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "GameOfWar"
-date: 2015
-published: true
+date: 2022-02-01
 labels:
   - Javascript
-  - Abstract Data Structure
+  - Abstract Data Structures
   - JUnit Testing
 summary: "I created a game in ICS 211 named Game Of War and this game can be played with 2 players at most."
 ---
