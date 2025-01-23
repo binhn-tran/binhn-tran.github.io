@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gameofwar_logo.webp
+image: img/gameofwar_logo.png
 title: "GameOfWar"
 date: 2022-02-01
 labels:
