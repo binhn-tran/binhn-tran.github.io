@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/gameofwar_logo.png
-title: "GameOfWar"
+title: "Game Of War"
 date: 2022-02-01
 labels:
   - Javascript
