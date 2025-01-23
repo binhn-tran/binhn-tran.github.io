@@ -2,22 +2,21 @@
   "basics": {
     "name": "Binh Tran",
     "label": "Student",
-    "picture": "https://github.com/binhtran20.png",
+    "picture": "https://github.com/binhn-tran.png",
     "email": "binhtran@hawaii.edu",
     "phone": "808-364-5282",
-    "website": "https://binhtran20.github.io",
+    "website": "https://binhn-tran.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2026.",
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "binhtran20", "url": "http://github.com/binhtran20" },
+      { "network": "github", "username": "binhn-tran", "url": "http://github.com/binhn-tran" },
       { "network": "linkedin", "username": "binhtran", "url": "http://linkedin.com/in/binhtran" },
       { "network": "instagram", "username": "binht_", "url": "http://instagram.com/binht_" }
     ]
   },
   "interests": [
-    { "name": "Web Development" },
     { "name": "CyberSecurity" },
-    { "name": "Programming" },
+    { "name": "Surfing" },
     { "name": "TroubleShooting" },
     { "name": "Software Enginnering" }
   ],
@@ -36,7 +35,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2017-08-01",
+      "startDate": "2021-08-01",
       "endDate": "Present",
       "courses": [
       ]
