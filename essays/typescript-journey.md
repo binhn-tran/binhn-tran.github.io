@@ -21,7 +21,7 @@ Since TypeScript uses the same syntax as JavaScript, picking it up hasn’t been
 
 ## Athletic Software Engineering: In Class WODs
 
-The in-class WODs are particularly useful because they help shape you into a more efficient and reliable programmer. In my opinion, the process can feel stressful because I spend a lot of time carefully reading the problem to fully understand the question. I often start to panic due to the limited time available to complete the in-class WODs. However, it becomes enjoyable once you’re able to arrive at the correct solution. This approach works for me because it encourages me to practice coding regularly and helps me become accustomed to solving problems within a limited timeframe.
+The in-class WODs are particularly useful because they help shape you into a more efficient and reliable programmer. In my opinion, the process can feel stressful because I spend a lot of time carefully reading the problem to fully understand the question. I often start to panic due to the limited time available to complete the in-class WODs. However, it becomes enjoyable once I'm able to arrive at the correct solution. This approach works for me because it encourages me to practice coding regularly and helps me become accustomed to solving problems within a limited timeframe.
 
 
 ## A Gateway to Better Programming
