@@ -48,5 +48,5 @@ I am excited to see how TypeScript will enhance my abilities and contribute to m
 
 ## AI Use
 
-I used AI to check my grammar, sentence structure, paragraph flow, paragraph title, and the essay title. The essay is from my own experience and viewpoint.
+I used AI to check my grammar, sentence structure, paragraph flow, paragraph titles, and the essay title. 
 
