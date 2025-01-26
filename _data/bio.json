@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "MATLAB" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "GitHub" ]
     }
   ],
   "education": [
@@ -43,69 +43,68 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Honolua Surf Company",
+      "position": "Supervisor",
+      "website": "https://www.honoluasurf.com",
+      "startDate": "2023-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Manager on duty when store manager isn't working",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Supervised sales associates, responsible for closing and opening the store.",
+        "Restock merchandise on sales floor and provide excellent customer service."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Vector Marketing",
+      "position": "Sales Representative",
+      "website": "https://www.vectormarketing.com",
+      "startDate": "2022-04-01",
+      "endDate": "2023-01-10",
+      "summary": "Promoting kitchenware to customers",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Looked for potential leads, made phone calls and book appointments.",
+        "Did online presentations via zoom and sold kitchenware online."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Life Team",
+      "website": "https://www.saintlouishawaii.org",
+      "position": "Retreat Leader",
+      "startDate": "2020-08-01",
+      "endDate": "2021-05-18",
+      "summary": "Retreat leader for St. Louis School",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Leading others in retreats and religious activities.",
+        "Communicated effectively when giving personal testimonies at retreats."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "808 CleanUps",
+      "website": "https://808cleanups.org",
+      "position": "Volunteer",
+      "startDate": "2017-08-01",
+      "endDate": "2021-05-18",
+      "summary": "Volunteered to help remove debris",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Volunteered to help clean the marshland in Hawaii Kai Hui to save native birds that thrive there.",
+        "Assisted in removing debris at the Lili’uokalani Garden Botanical Stream."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "President’s List",
+      "date": "2020-2021",
+      "awarder": "St. Louis School",
+      "summary": "Awarded to students that have achieved a GPA of 4.00 or higher"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Honor Roll",
+      "date": "2017-2021",
+      "awarder": "St. Louis School",
+      "summary": "Awarded to students that have achieved a GPA of 3.00 - 3.14"
     }
   ],
   "references": [
