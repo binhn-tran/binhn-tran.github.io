@@ -41,3 +41,9 @@ The Stack<Card> playerOnesCards() method should return player one’s stack of c
 The Stack<Card> playerTwosCards() method should return player two’s stack of cards.
 
 The Stack<Card> combineStacks(Stack<Card> top, Stack<Card> bottom) method should combine top and bottom creating the return stack. The cards should be in the order top then bottom.
+
+## JUnit Testing
+A JUnit Test file will also be used to test the GameOfWar class for correctness.
+
+
+To learn more about how this game of war works, here's the link: https://courses.ics.hawaii.edu/ics211s21/morea/090.stacks/experience-H07-war.html
