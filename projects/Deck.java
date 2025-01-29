@@ -7,7 +7,7 @@ import java.util.Random;
 
 /**
  * Represents a Deck.
- *
+ * Code from Professor Moore.
  * @author Cam Moore
  *
  */
