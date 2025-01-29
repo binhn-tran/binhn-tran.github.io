@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  * Represents a Suit.
- *
+ * Code from Professor Moore.
  * @author Cam Moore
  *
  */
