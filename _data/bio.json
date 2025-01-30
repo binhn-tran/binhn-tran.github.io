@@ -11,13 +11,12 @@
     "profiles": [
       { "network": "github", "username": "binhn-tran", "url": "http://github.com/binhn-tran" },
       { "network": "linkedin", "username": "binhtran", "url": "http://linkedin.com/in/binhtran" },
-      { "network": "instagram", "username": "binht_", "url": "http://instagram.com/binht_" }
     ]
   },
   "interests": [
     { "name": "CyberSecurity" },
-    { "name": "Surfing" },
     { "name": "TroubleShooting" },
+    { "name": "Artifical Intelligence" },
     { "name": "Software Enginnering" }
   ],
   "skills": [
@@ -27,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "GitHub" ]
+      "keywords": [ "MacOS, Git/GitHub" ]
     }
   ],
   "education": [
@@ -37,8 +36,7 @@
       "studyType": "B.S.",
       "startDate": "2021-08-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": [ "ICS 111, ICS 141, ICS 211, ICS 212, ICS 241, ICS 311, ICS 314" ]
     }
   ],
   "work": [
