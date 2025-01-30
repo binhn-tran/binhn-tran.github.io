@@ -46,6 +46,6 @@ The Stack<Card> combineStacks(Stack<Card> top, Stack<Card> bottom) method should
 A JUnit Test file will also be used to test the GameOfWar class for correctness.
 
 ## Code Repository
-[Link to project repository] (https://github.com/binhn-tran/binhn-tran.github.io/tree/main/projects)
+[Link to project repository](https://github.com/binhn-tran/binhn-tran.github.io/tree/main/projects)
 
-To learn more about how this game of war works, here's the link: https://courses.ics.hawaii.edu/ics211s21/morea/090.stacks/experience-H07-war.html
+[Link to Game Of War](https://courses.ics.hawaii.edu/ics211s21/morea/090.stacks/experience-H07-war.html)
