@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/olelo.jpg
 title: "'Ōlelo and English Sayings Database"
-date: 2015
+date: 2024-03-10
 published: true
 labels:
   - Javascript
