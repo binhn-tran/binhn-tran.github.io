@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/sudoku.jpg
 title: "Recursive Sudoku Solver"
 date: 2021-04-10
 published: true
