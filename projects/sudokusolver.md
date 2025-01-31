@@ -12,6 +12,10 @@ labels:
 summary: "I created a recursive sudoku solver as a homework assignment for ICS 211."
 ---
 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/difficulty/degree_difficulty.jpg" >
+
 ## How To Play Sudoku
 
 A Sudoku is a 9x9 grid of integers, each with values 1..9. A Sudoku is valid when each of the 9 rows, each of the 9 columns, and each of the 9 3x3 boxes in the grid has exactly one each of the possible values 0..F, without any duplicates.
