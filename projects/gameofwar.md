@@ -11,7 +11,7 @@ labels:
 summary: "I created a game in ICS 211 named Game Of War and this game can be played with 2 players at most."
 ---
 
-<img width="800px" class="rounded float-start pe-4" src="../img/war.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/war.jpg">
 
 
 
