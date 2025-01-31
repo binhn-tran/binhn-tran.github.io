@@ -5,8 +5,7 @@ title: "The Importance of Asking Smart Questions in Computer Science"
 date: 2025-01-30
 published: true
 labels:
-  - Not so much smart questions
-  - Smart questions
+  - Questions
   - StackOverflow
 ---
 
