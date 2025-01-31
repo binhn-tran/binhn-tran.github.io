@@ -1,19 +1,33 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
-# All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
+title: "Forging the Future: Developing Skills and Experience in Software Engineering and Cybersecurity"
+date: 2025-01-30
+published: true
 labels:
   - Software Engineering
-  - Learning
+  - Cybersecurity
+  - Future Goals
+  - Artificial Intelligence
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+## A Childhood Spark: My Journey into Technology and Troubleshooting
+Ever since I was a kid, I have always been curious about how the world revolves around technology. My curiosity began in elementary school when I got my first laptop. As soon as I received it, I became fascinated by how computers work and always wanted to learn more about them. As time went on, I would run into minor issues with my laptop, and figuring out how to troubleshoot was enjoyable for me. If I couldn't find the solution on my own, I would always turn to YouTube for answers.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+## Trial, Error, and Growth
+Going into my first year of college, I had no prior experience with coding, so I spent hours practicing. I also attended office hours, where I met with the TA to get extra help. I wish I had started exploring Computer Science sooner because I struggled a lot in my programming classes. I found it difficult to understand many of the concepts being taught. Overtime, I began to grasp some concepts, but there are still many that I don’t fully understand. One of the TAs once told me that Computer Science is a broad field with many available resources, but it's up to me to explore opportunities by networking with others in the industry.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+## Interests: Cybersecurity, AI, and Software Engineering
+As I progressed in Computer Science, I developed a strong interest in Cybersecurity, Artificial Intelligence, and Software Engineering. My interest in cybersecurity comes from seeing reports of major corporations suffering from cyberattacks, which made me want to pursue a career where I could help protect the world from threats. As for artificial intelligence, I have been using it for a while, and I find it to be an incredibly useful resource. For software engineering, I am still learning about what it has to offer, but so far, the experience has been positive and a valuable learning journey.
+
+
+## Determination to Become a Better Programmer
+Currently, I am taking a software engineering class, which has been quite a rollercoaster. Even though I still struggle with picking up some concepts, I try my best to practice as much as I can because I know I won’t get anywhere without consistent effort. I hope to eventually master more programming languages so that I can work on my own projects. Although I may face challenges and hit roadblocks, I will continue striving toward my goal of becoming a proficient programmer.
+
+## AI Use
+I used AI to fix my grammar, the title for my technical essay, and for the titles of the paragraphs. 
+
+
+
