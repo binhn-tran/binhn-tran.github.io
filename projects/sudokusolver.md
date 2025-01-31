@@ -12,9 +12,9 @@ labels:
 summary: "I created a recursive sudoku solver as a homework assignment for ICS 211."
 ---
 
+## How To Play Sudoku
 
-
-In this homework assignment, I needed to implement a recursive method to find a solution to a given sudoku problem. A Sudoku is a 9x9 grid of integers, each with values 1..9. A Sudoku is valid when each of the 9 rows, each of the 9 columns, and each of the 9 3x3 boxes in the grid has exactly one each of the possible values 0..F, without any duplicates.
+A Sudoku is a 9x9 grid of integers, each with values 1..9. A Sudoku is valid when each of the 9 rows, each of the 9 columns, and each of the 9 3x3 boxes in the grid has exactly one each of the possible values 0..F, without any duplicates.
 A Sudoku problem is a Sudoku grid with some of the grid cells already filled. The solution fills the remaining cells to give a valid Sudoku.
 
 ## Recursive Strategy for finding a solution to a Sudoku problem
@@ -72,6 +72,8 @@ A Sudoku problem is a Sudoku grid with some of the grid cells already filled. Th
     return true;
   }
 ```
-Link to my project repository to view the code for this project [GitHub Repository](https://github.com/binhn-tran/binhn-tran.github.io/tree/main/projects)
 
-Here's the link to the code instructions [Recursion Homework 9](https://courses.ics.hawaii.edu/ics211s21/morea/110.recursion/experience-H09-decimal.html).
+## Code Repository
+[Link to source code](https://github.com/binhn-tran/sudokusolver)
+
+[Link to sudoku](https://courses.ics.hawaii.edu/ics211s21/morea/110.recursion/experience-H09-decimal.html).
