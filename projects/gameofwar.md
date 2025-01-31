@@ -25,6 +25,7 @@ In order to create this game of war, I created 4 classes: Rank, Suit, Card, and 
 
 I also needed to create another class named GameOfWar that implements the IGameOfWar interface:
 
+```cpp
 public interface IGameOfWar {
   void initializeGame(Deck d);
   boolean playARound();
@@ -32,6 +33,7 @@ public interface IGameOfWar {
   Stack<Card> playerTwosCards();
   Stack<Card> combineStacks(Stack<Card> top, Stack<Card> bottom);
 }
+```
 
 ## Explanation of the methods in IGameOfWar interface
 The void initializeGame(Deck d) method should deal the cards to player one and player two. Player one and two should have the same number of cards.
