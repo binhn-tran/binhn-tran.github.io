@@ -13,6 +13,9 @@ summary: "I created a game in ICS 211 named Game Of War and this game can be pla
 
 <img width="800px" class="rounded float-start pe-4" src="../img/war.jpg">
 
+
+
+
 ## Rules of the game
 The goal of War is to be the first player to win all 52 cards. The deck is divided evenly, with each player receiving 26 cards, dealt one at a time, face down. Anyone may deal first. Each player places their stack of cards face down, in front of them.
 
