@@ -11,7 +11,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="1000px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
 ## A Childhood Spark: My Journey into Technology and Troubleshooting
 Ever since I was a kid, I have always been curious about how the world revolves around technology. My curiosity began in elementary school when I got my first laptop. As soon as I received it, I became fascinated by how computers work and always wanted to learn more about them. As time went on, I would run into minor issues with my laptop, and figuring out how to troubleshoot was enjoyable for me. If I couldn't find the solution on my own, I would always turn to YouTube for answers.
