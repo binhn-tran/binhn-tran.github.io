@@ -76,4 +76,4 @@ A Sudoku problem is a Sudoku grid with some of the grid cells already filled. Th
 ## Code Repository
 [Link to source code](https://github.com/binhn-tran/sudokusolver)
 
-[Link to sudoku](https://courses.ics.hawaii.edu/ics211s21/morea/110.recursion/experience-H09-decimal.html).
+[Link to sudoku](https://courses.ics.hawaii.edu/ics211s21/morea/110.recursion/experience-H09-decimal.html)
