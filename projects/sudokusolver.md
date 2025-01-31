@@ -14,7 +14,7 @@ summary: "I created a recursive sudoku solver as a homework assignment for ICS 2
 
 <img width="200px" 
      class="rounded float-start pe-4" 
-     src="../img/difficulty/degree_difficulty.jpg" >
+     src="../img/sudokuu.jpg" >
 
 ## How To Play Sudoku
 
