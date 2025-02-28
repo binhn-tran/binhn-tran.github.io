@@ -40,7 +40,6 @@ Being knowledgeable about Bootstrap 5 will be beneficial for me in the future wh
 In conclusion, even though learning about UI frameworks like Bootstrap 5 can be challenging at first, it can be very beneficial for me in the future. From saving time with prebuilt components to simplifying the process of creating responsive, cross browser compatibility, Bootstrap 5 improves efficiency when it comes to web development. It also provides consistency, reliability, and community support, which can make web design and development easier. This is a huge advantage when it comes to working on larger projects or collaborating with a team. Learning Bootstrap 5 not only cuts down the time I spend coding, but it equips me with a valuable skill for the future. Even though there is a deep learning curve, the tools and resources that Bootstrap 5 offers makes it a valuable skill for me, which in turn leads me into creating better, faster, and more clean websites.
 
 
-
 ## AI Use
 
 I used AI to search for the titles, grammar checking, as well as some background information about Bootstrap 5.
