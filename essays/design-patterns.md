@@ -32,9 +32,9 @@ Using the Singleton pattern also made my code easier to manage and helped avoid 
 
 ## Ordering a Dish: The Factory Pattern
 
-Imagine going to a restaurant and saying, "I want pasta." You don't care if it's spaghetti or ravioli. You want the kitchen to figure it out based on the menu or what's available. 
+The Factory Pattern in software engineering is similar to ordering food at a restaurant. As a customer, you don't worry about the ingredients or the cooking process, you just tell the waiter what dish you want, and the kitchen takes care of the rest. In the same way, when using the Factory Pattern in code, you don't create objects. You have the factory class create an object for you based on some input, like a type or name. 
 
-In coding terms, the Factory pattern allows you to do that. I used it in a notification system. The app would send different types of notifications: email, SMS, or push. To do this, you can simply use if-else statements to figure out which to send. Another way to do this is the Factory pattern. The code could say, "Make a notification", then the class would create it based on what it is (email, SMS, or push).
+For example, if you request a "Pizza," the factory will return a Pizza object. This approach hides the complex logic from the client and makes your code easier to manage and extend. If you want to introduce a new dish like a taco, you only need to update the factory, without changing the code. This leads to a better version of your code, and supports the open-closed principle in object-oriented design. This means that your code is open for extension, but closed for modification. Overall, the Factory Pattern helps you build flexible and scalable applications by allowing there to be object creation in one place.
 
 ## Why do patterns matter?
 
