@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Patterns with Purpose: Crafting Better Software
+title: "Patterns with Purpose: Crafting Better Software"
 date: 2025-04-24
 published: true
 labels:
@@ -38,3 +38,7 @@ In coding terms, the Factory pattern allows you to do that. I used it in a notif
 ## Why do patterns matter?
 
 Design patterns don't just solve technical problems, but they help people work together better. Patterns keep projects in it's top shape because code that is built with patterns makes it easier to read, test, and change. You can think of this as a restaurant because it will run much smoother when everyone follows the same recipes. Generally, software engineers will thrive when they use shared patterns. For example, you wouldn't build a skyscraper without blueprints and good software isn't about writing code, it's mainly about using patterns that provide structure and clarity.
+
+## AI Use
+
+I used AI to fix my grammar, titles, subtitles, and to look for a metaphor to relate to design patterns.
