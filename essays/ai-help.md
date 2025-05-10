@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Navigating Software Engineering with AI: A Reflective Analysis from ICS 314"
+title: "Navigating Software Engineering with AI"
 date: 2025-05-9
 published: true
 labels:
