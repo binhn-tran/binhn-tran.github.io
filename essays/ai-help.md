@@ -45,9 +45,10 @@ Throughout my academic experience and in ICS 314, AI tools have played a role in
 
   12. Documenting code: I always had a habit on commenting every line of code I write, so that other people who view my code would have a sense of how my code works. As I moved on in my programming classes, I realized that it's not really necessary to comment on every single line of code. As long as I had the most important lines of code documented, I should be good. I still think it's a good habit to form when writing code, since it gives the person viewing your code, a sense of what your code does.
 
-  13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”: I know that all of the AI resources that I used aren't always perfect. So with that, when I asked Chat GPT a question as to how to fix my code, I laid out my question to include specifics on what problem that I was dealing with. By doing so, it helped me in getting the most accurate solution possible.
+  13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”:
+      I know that all of the AI resources that I used aren't always perfect. So with that, when I asked Chat GPT a question as to how to fix my code, I laid out my question to include specifics on what problem that I was dealing with. By doing so, it helped me in getting the most accurate solution possible.
 
-  14. Other uses in ICS 314 not listed: I have listed all of my uses of AI in ICS 314.
+  15. Other uses in ICS 314 not listed: I have listed all of my uses of AI in ICS 314.
 
 ## III. Impact on Learning and Understanding
 
