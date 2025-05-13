@@ -42,8 +42,9 @@ Through this project, I gained experience in building and connecting front-end p
 
 ## Project Homepage and Organization Page
 
-[Project Homepage](https://cooking-compass.github.io).
-[GitHub Organization Page](https://github.com/Cooking-Compass).
+- [Project Homepage](https://cooking-compass.github.io)
+
+- [GitHub Organization Page](https://github.com/Cooking-Compass)
 
 ## AI Use
 
