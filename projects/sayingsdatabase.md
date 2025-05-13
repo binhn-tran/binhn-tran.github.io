@@ -13,9 +13,9 @@ labels:
 summary: "I created this homework assignment in ICS 311 with my classmate Ellie Ishii, where it stores 'Ōlelo and English sayings."
 ---
 
-<img width="200px" 
-     class="rounded float-start pe-4" 
-     src="../img/olelo1.jpg" >
+<img width="100%" class="rounded mx-auto d-block" src="../img/olelo1.jpg" >
+ 
+## Brief Overview
 
 The database stores 'Ōlelo and English sayings, the English translations and explanations. To implement this, my classmate and I used a AVL tree and an AVL node.
 
@@ -43,3 +43,7 @@ The sayings database class creates an AVL Tree implementation for the Sayings Da
 ## Code Repository
 
 [Link to source code](https://github.com/binhn-tran/sayingsdatabase/tree/main).
+
+## AI Use
+
+Used AI for grammar.
