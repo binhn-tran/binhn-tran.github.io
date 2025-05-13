@@ -56,3 +56,7 @@ A JUnit Test file will also be used to test the GameOfWar class for correctness.
 [Link to source code](https://github.com/binhn-tran/gameofwar/tree/main)
 
 [Link to Game Of War](https://courses.ics.hawaii.edu/ics211s21/morea/090.stacks/experience-H07-war.html)
+
+## AI Use
+
+Used AI for grammar.
