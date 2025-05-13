@@ -11,7 +11,7 @@ labels:
   - WODs
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/chatgpt.png">
+<img width="100%" class="rounded mx-auto d-block"  src="../img/chatgpt.png">
 
 ## I. Introduction
 
