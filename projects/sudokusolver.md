@@ -13,7 +13,7 @@ summary: "I created a recursive sudoku solver as a homework assignment for ICS 2
 ---
 
 <img width="200px" 
-     class="rounded float-start pe-4" 
+     class="rounded mx-auto d-block" 
      src="../img/sudokuu.jpg" >
 
 ## How To Play Sudoku
@@ -78,6 +78,10 @@ A Sudoku problem is a Sudoku grid with some of the grid cells already filled. Th
 ```
 
 ## Code Repository
-[Link to source code](https://github.com/binhn-tran/sudokusolver)
+[Source code](https://github.com/binhn-tran/sudokusolver)
 
-[Link to sudoku](https://courses.ics.hawaii.edu/ics211s21/morea/110.recursion/experience-H09-decimal.html)
+[Sudoku Instructions](https://courses.ics.hawaii.edu/ics211s21/morea/110.recursion/experience-H09-decimal.html)
+
+## AI Use
+
+Used AI for grammar.
