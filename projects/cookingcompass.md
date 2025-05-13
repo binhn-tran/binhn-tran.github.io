@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/olelo.jpg
+image: img/cooking-compass.png
 title: "Cooking Compass"
 date: 2025-05-12
 published: true
@@ -15,7 +15,7 @@ summary: "Cooking Compass is an app for UH Mānoa students to discover and share
 
 <img width="200px" 
      class="rounded float-start pe-4" 
-     src="../img/olelo1.jpg" >
+     src="../img/cooking-compass.png" >
 
 
 
