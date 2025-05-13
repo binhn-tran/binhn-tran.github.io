@@ -10,7 +10,7 @@ labels:
   - Configuration Management
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/chatgpt.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/softwareengineering.webp">
 
 ## Learning to think like a Software Engineer
 
