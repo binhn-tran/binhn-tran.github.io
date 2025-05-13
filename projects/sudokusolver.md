@@ -12,7 +12,7 @@ labels:
 summary: "I created a recursive sudoku solver as a homework assignment for ICS 211."
 ---
 
-<img width="200px" 
+<img width="100%" 
      class="rounded mx-auto d-block" 
      src="../img/sudokuu.jpg" >
 
