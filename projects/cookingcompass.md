@@ -13,8 +13,8 @@ labels:
 summary: "Cooking Compass is an app for UH Mānoa students to discover and share creative recipes that fit common college constraints like limited kitchen resources, time, and cooking skills."
 ---
 
-<img width="200px" 
-     class="rounded float-start pe-4" 
+<img width="100%" 
+     class="rounded mx-auto d-block" 
      src="../img/cooking-compass.png" >
 
 
