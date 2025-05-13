@@ -10,7 +10,9 @@ labels:
   - Configuration Management
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/softwareengineering.webp">
+<div class="d-flex justify-content-center">
+  <img width="500px" class="rounded" src="../img/softwareengineering.webp">
+</div>
 
 ## Learning to think like a Software Engineer
 
