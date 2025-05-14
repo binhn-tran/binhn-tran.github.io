@@ -74,6 +74,8 @@ AI is set to play an important role in software engineering by offering learning
 
 To wrap this up, using AI in ICS 314 helped me a lot. It saved me a lot of time and assisted me in learning a lot of brand new concepts. With taking this class, it also opened my eyes that using AI to much can also hurt yourself in the long run. Doing most of the work yourself will be more beneficial for you and feel more rewarding.
 
+## AI Use
 
+Used AI for grammar and paragraph flow.
  
 
