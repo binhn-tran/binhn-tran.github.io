@@ -13,7 +13,7 @@ labels:
   - ESLint
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/code.png">
+<img width="100%" class="rounded mx-auto d-block" src="../img/code.png">
 
 ## The Importance of Coding Standards in Learning a New Language
 
