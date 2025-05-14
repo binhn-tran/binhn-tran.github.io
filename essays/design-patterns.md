@@ -10,7 +10,7 @@ labels:
   - Factory
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/designpatterns.jpeg">
+<img width="100%" class="rounded mx-auto d-block" src="../img/designpatterns.jpeg">
 
 ## Recipes in the Kitchen and in Code
 
