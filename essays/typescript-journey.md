@@ -11,7 +11,7 @@ labels:
   - Programming Journey
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/typescript.png">
+<img width="100%" class="rounded mx-auto d-block" src="../img/typescript.png">
 
 ## Discovering the World of TypeScript
 
