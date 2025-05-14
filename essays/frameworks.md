@@ -10,7 +10,7 @@ labels:
   - Web Development
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/bootstrap-1.jpg">
+<img width="100%" class="rounded mx-auto d-block" src="../img/bootstrap-1.jpg">
 
 ## Why Bootstrap 5 Is Worth the Learning Curve: A Developer's Journey
 
