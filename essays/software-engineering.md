@@ -32,5 +32,8 @@ Being that said, we all had to stay as organized as possible to prevent any erro
 
 To conclude, ICS 314 has taught me a lot about software engineering. I've learned that it's more than just writing code that works, but it's about writing code that works well in a way where others can reproduce them and use it. With topics like coding standards and configuration management, I now understand the importance of structure, consistency, and collaboration in software projects. Even though, I only choose these two concepts, I will take all of the concepts that I've learned in software engineering and apply it in the future.
 
+## AI Use
+
+Used AI for grammar and paragraph flow.
 
 
